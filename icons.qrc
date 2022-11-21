@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fav.jpg</file>
+        <file>settings.jpg</file>
+        <file>user.jpg</file>
+        <file>leftArrow.jpg</file>
+        <file>rightArrow.jpg</file>
+        <file>add.jpg</file>
+        <file>share.jpg</file>
+        <file>heart.jpg</file>
+        <file>favlist.jpg</file>
+        <file>liked.jpg</file>
+        <file>twitter.jpg</file>
+        <file>facebook.jpg</file>
+        <file>email.jpg</file>
+        <file>linkedin.jpg</file>
+        <file>tumblr.jpg</file>
+        <file>comment1.jpg</file>
+        <file>logo.jpg</file>
+        <file>profile.jpg</file>
+    </qresource>
+</RCC>

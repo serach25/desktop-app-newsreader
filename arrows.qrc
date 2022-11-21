@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rightArrow.jpg</file>
+    </qresource>
+</RCC>

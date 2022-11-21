@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>thumbnail1.jpg</file>
+        <file>thumbnail2.jpg</file>
+        <file>thumbnail3.jpg</file>
+        <file>thumbnail4.jpg</file>
+        <file>thumbnail5.jpg</file>
+        <file>thumbnail5top.jpg</file>
+        <file>thumbnail6.jpg</file>
+        <file>thumbnail7.jpg</file>
+        <file>thumbnail8.jpg</file>
+        <file>thumbnail9.jpg</file>
+        <file>thumbnail10.jpg</file>
+        <file>save1.jpg</file>
+        <file>save2.jpg</file>
+        <file>save3.jpg</file>
+        <file>save4.jpg</file>
+        <file>save7.jpg</file>
+        <file>save8.jpg</file>
+        <file>save9.jpg</file>
+        <file>save5.jpg</file>
+        <file>save6.jpg</file>
+        <file>save10.jpg</file>
+        <file>results1.jpg</file>
+        <file>results2.jpg</file>
+        <file>results3.jpg</file>
+        <file>results4.jpg</file>
+        <file>results6.jpg</file>
+        <file>results7.jpg</file>
+        <file>results8.jpg</file>
+        <file>results9.jpg</file>
+        <file>results5.jpg</file>
+        <file>results10.jpg</file>
+    </qresource>
+</RCC>
